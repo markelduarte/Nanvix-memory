@@ -14,3 +14,7 @@ Modified Files:
 	include/nanvix/region.h // EXTERN size_t get_used_memory();
 	include/nanvix/syscall.h
 	src/lib/libc/unistd/free_mem.c // chama a sys_free() através do syscall.h e syscalls.c
+	
+	
+Original repository:
+	https://github.com/nanvix/nanvix

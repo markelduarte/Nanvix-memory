@@ -2,7 +2,7 @@
 
 Modified version of the Nanvix Operating System: 
 
-	Free is a program executed on shell that returns the available memory in the system. 
+	Free is a program ran in the shell that returns the available memory in the system. 
 	This is an unfinished version of free, where it's currently returning the used memory.
 
 Modified Files:
